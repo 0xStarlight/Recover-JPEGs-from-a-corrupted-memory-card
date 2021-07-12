@@ -1,7 +1,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/onyx-storm)
 ![Build status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)
 
-## Recover-JPEGs-from-a-corrupter-memory-card
+## Recover-JPEGs-from-a-corrupted-memory-card
 Script to recover JPEG's from a corrupter memory card
 
 ## How to run the program
