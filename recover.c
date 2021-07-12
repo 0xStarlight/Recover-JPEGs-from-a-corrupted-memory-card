@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
     FILE *img = NULL;
     char filename[8];
 
-    // Read every 515 bytes
+    // Read every 512 bytes
     while (fread(&bytes, 512, 1, file) == 1)
     {
         // Read first three bytes
